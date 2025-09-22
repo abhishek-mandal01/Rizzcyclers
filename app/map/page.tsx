@@ -6,7 +6,7 @@ import { supabase } from "@/lib/supabaseClient";
 import Header from "@/app/components/Header";
 
 export default function MapPage() {
-  const [reports, setReports] = useState<any[]>([]);
+  const [reports, setReports] = useState<unknown[]>([]);
 
   // Use dynamic import for the Map component to avoid SSR issues
   const Map = dynamic(() => import("@/app/components/Map"), {
