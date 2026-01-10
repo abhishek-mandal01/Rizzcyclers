@@ -38,7 +38,7 @@ const Header = ({ variant = 'default' }: { variant?: 'default' | 'report' | 'log
       <div className="max-w-6xl mx-auto flex justify-between items-center px-6 py-4">
         <Link href="/" className="flex items-center text-white text-2xl font-bold">
           <span className="mr-3 text-2xl">♻️</span>
-          Rizzcycler
+          Rizzcyclers
         </Link>
         <nav className="hidden md:flex items-center space-x-6">
           {/* Conditional rendering based on the variant prop */}
