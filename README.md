@@ -274,11 +274,11 @@ Required environment variables in `.env.local`:
 
 ### **Marketplace**
 - Material pricing guides:
-  - Paper & Cardboard: ₹8-15/kg
-  - Plastics: ₹12-25/kg
-  - Metals: ₹45-180/kg
-  - E-Waste: ₹30-500/piece
-  - Glass & Textiles: ₹5-20/kg
+  - Paper & Cardboard:
+  - Plastics: 
+  - Metals: 
+  - E-Waste: 
+  - Glass & Textiles:
 - Upload photos for listings
 - Modal-based seller interface
 
@@ -303,12 +303,6 @@ We welcome contributions! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
