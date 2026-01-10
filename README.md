@@ -325,8 +325,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact & Support
 
 For questions, suggestions, or support:
-- **Email**: support@rizzcycler.in
-- **GitHub Issues**: [Report a bug](https://github.com/yourusername/rizzcyclers/issues)
+- **Email**: 18mandalabhishek@gmail.com
 
 ---
 
